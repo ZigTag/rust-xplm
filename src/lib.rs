@@ -41,6 +41,9 @@ pub mod versions;
 /// Relatively low-level windows
 pub mod window;
 
+/// XPLM Aircraft Module
+pub mod planes;
+
 /// Writes a message to the developer console and Log.txt file
 ///
 /// No line terminator is added.
